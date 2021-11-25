@@ -1,8 +1,6 @@
 /*
  * Bookmanager.h
  *
- *  Created on: Nov 19, 2021
- *      Author: moul
  */
 
 #ifndef BOOKMANAGER_H_
