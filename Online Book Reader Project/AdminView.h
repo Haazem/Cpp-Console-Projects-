@@ -1,8 +1,6 @@
 /*
  * AdminView.h
  *
- *  Created on: Nov 22, 2021
- *      Author: moul
  */
 
 #ifndef ADMINVIEW_H_
