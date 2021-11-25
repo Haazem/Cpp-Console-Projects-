@@ -1,3 +1,0 @@
-# Console projects with c++.
-
-
