@@ -1,8 +1,6 @@
 /*
  * UserView.cpp
  *
- *  Created on: Nov 19, 2021
- *      Author: moul
  */
 
 #include "UserView.h"
