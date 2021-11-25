@@ -1,8 +1,6 @@
 /*
  * AdminView.cpp
  *
- *  Created on: Nov 22, 2021
- *      Author: moul
  */
 
 #include "AdminView.h"
