@@ -1,8 +1,6 @@
 /*
  * OnlineReader.h
  *
- *  Created on: Nov 19, 2021
- *      Author: moul
  */
 
 #ifndef ONLINEREADER_H_
