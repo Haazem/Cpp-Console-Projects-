@@ -1,8 +1,6 @@
 /*
  * Usersmanager.cpp
- *
- *  Created on: Nov 18, 2021
- *      Author: moul
+ 
  */
 
 #include "Usersmanager.h"
