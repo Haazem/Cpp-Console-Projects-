@@ -1,8 +1,7 @@
 /*
  * Usersmanager.h
  *
- *  Created on: Nov 18, 2021
- *      Author: moul
+ *  
  */
 
 #ifndef USERSMANAGER_H_
