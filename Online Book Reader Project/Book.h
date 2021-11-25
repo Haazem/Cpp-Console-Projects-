@@ -1,8 +1,6 @@
 /*
  * Book.h
  *
- *  Created on: Nov 18, 2021
- *      Author: moul
  */
 
 #ifndef BOOK_H_
