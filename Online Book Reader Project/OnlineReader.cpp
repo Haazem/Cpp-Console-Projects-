@@ -1,8 +1,6 @@
 /*
  * OnlineReader.cpp
  *
- *  Created on: Nov 19, 2021
- *      Author: moul
  */
 
 #include "OnlineReader.h"
