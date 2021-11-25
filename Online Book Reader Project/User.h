@@ -1,8 +1,6 @@
 /*
- * User.h
- *
- *  Created on: Nov 18, 2021
- *      Author: moul
+ User.h
+
  */
 
 #ifndef USER_H_
